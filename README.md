@@ -15,7 +15,6 @@
 - **Frontend**: React
 - **Backend**: Node.js, Express
 - **Database**: MySQL
-- **Deployment**: Netlify (frontend), Render (backend)
 - **Version Control**: Git + GitHub
 
 ## 📁 Folder Structure
@@ -39,6 +38,8 @@ npm install
 # Backend
 cd ../../server/portfolio-cms-backend
 npm install
+# data base
+creart portfolio-cms table
 
 Run Locally
 # Backend
